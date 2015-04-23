@@ -1,3 +1,5 @@
+### Forked from [DavidChambers Base64.js](https://github.com/davidchambers/Base64.js), simply relicensed under CC0.
+
 # Base64.js
 
 ≈ 500 byte* polyfill for browsers which don't provide [`window.btoa`][1] and
